@@ -1,0 +1,1 @@
+The method x calculates the number of characters in the input string that are in the set of characters '0', '2', '4', '6', '8'.
